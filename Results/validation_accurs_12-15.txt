@@ -1,0 +1,9 @@
+36.0
+Train: Loss:0.691, Accur:0.500
+Eval: Loss:0.693, landslide:0/1, no landslide:1/1, accur:0.500, Mean accuracy:0.500
+40.0
+Train: Loss:0.687, Accur:0.625
+Eval: Loss:0.693, landslide:0/1, no landslide:1/1, accur:0.500, Mean accuracy:0.500
+44.0
+Train: Loss:0.691, Accur:0.500
+Eval: Loss:0.693, landslide:0/1, no landslide:1/1, accur:0.500, Mean accuracy:0.500
